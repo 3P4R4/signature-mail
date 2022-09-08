@@ -1,2 +1,2 @@
 # Firma digital GMAIL
-Tod el credito a https://github.com/skarif2
+Todo el credito a https://github.com/skarif2
